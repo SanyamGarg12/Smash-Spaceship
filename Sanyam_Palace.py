@@ -306,7 +306,7 @@ def main():
                 winner_text = "Draw!!!"
             draw_winner(winner_text)
             break
-    # main()
+    main()
 
 
 if __name__ == "__main__":
